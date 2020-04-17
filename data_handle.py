@@ -1,7 +1,7 @@
 #!/usr/bin/env python2
 # -*- coding: utf-8 -*-
 # @Time : 2019/9/26 17:46
-# @Author : bad_bad_boy
+# @Author : *****
 # @File : xintianyou.py
 # @Software: PyCharm
 import base64
