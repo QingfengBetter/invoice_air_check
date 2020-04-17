@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# @author lixingmeng
+# @author ******
 # @date 2019-06-11
 # @version V1.0.0
 # @description 登录飞机票查验网站
